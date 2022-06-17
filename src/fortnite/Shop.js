@@ -14,7 +14,7 @@ module.exports = class FortniteShop {
     this.textDaily = "DAILY";
     this.textFeatured = "FEATURED";
     this.textDate = "Fortnite shop of {date}";
-    this.textFooter = "Generated with discord-canvas - fnbr.co";
+    this.textFooter = "Made By Agent Mimos#0001";
     this.options = {
       lang: "en",
       dateFormat: "dddd, MMMM Do YYYY",
